@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.App" Type="System.String" Value="App" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.App.Core" Type="System.String" Value="App\Core" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.App.HandlerCore" Type="System.String" Value="App\HandlerCore" Category="General" IsBrowsable="False" />
+</TgConfig>
